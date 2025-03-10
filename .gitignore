@@ -1,0 +1,86 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+*.log
+*.pot
+*.mo
+*.coverage
+.coverage.*
+*.hypothesis/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# FastAPI
+*.sqlite
+*.db
+
+# pyenv
+.python-version
+
+# Pylint
+pylint-report.txt
+pylint-global/.pylint
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Flask
+instance/
+.webassets-cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# FastAPI static files
+static/
+
+# Docker files
+docker-compose.yml
+Dockerfile
+
+# SQLAlchemy
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+*.env
